@@ -24,11 +24,11 @@
 
 ### 연락처
 
-- 이메일: [![Email](https://img.shields.io/badge/-ialleejy%40naver.com-00C300?style=flat&logo=naver&logoColor=white)](mailto:ialleejy@naver.com)
-- 블로그: [블로그 주소]
-- 인스타그램:
-[![Instagram](https://img.shields.io/badge/-%40kjo._.okj-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kjo._.okj/)
-
+- email: [![Email](https://img.shields.io/badge/-ialleejy%40naver.com-00C300?style=flat&logo=naver&logoColor=white)](mailto:ialleejy@naver.com)
+- blog: [블로그 주소]
+- instagram:
+[![Instagram](https://img.shields.io/badge/-%40kjo._.okj-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kjo._.okj/) 
+[![Instagram](https://img.shields.io/badge/-%40jongactivity-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jongactivity/)
 ---
 
 ⭐️ 감사합니다! ⭐️
