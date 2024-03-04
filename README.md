@@ -21,7 +21,7 @@
 - [프로젝트 2](프로젝트2 링크): 간단한 설명
 
   
-### BOJ RANGKING
+### BOJ PYTHON RANGKING
 ![Boj Statistics](http://mazassumnida.wtf/api/v2/generate_badge?boj=ialleejy)
 
 
