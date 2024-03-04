@@ -16,7 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=black)
 
 ### 프로젝트
-- 계획중인 프로젝트: 리그오브레전드 내전 자동 매칭 시스템(코드 수정 중)
+- 계획중인 프로젝트: 리그오브레전드 5VS 내전 자동 매칭 시스템(코드 수정 중)
   
 ### BOJ PYTHON RANGKING
 ![Boj Statistics](http://mazassumnida.wtf/api/v2/generate_badge?boj=ialleejy)
