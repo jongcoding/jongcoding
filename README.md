@@ -6,14 +6,27 @@
 다양한 프로젝트를 진행해보고자 합니다.(보안, 해킹, 웹사이트제작 등등)
 특히 보안에 대해 관심이 많아 공부 중에 있습니다.
 
-### 기술 스택
+### 프로그래밍 언어
+![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+![Java](https://img.shields.io/badge/java-F89820?style=for-the-badge&logo=java&logoColor=white&labelColor=black)
+![C](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=black)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black)
 
-![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=Javascript&logoColor=F0DB4F&labelColor=black)
-![Static Badge](https://img.shields.io/badge/c%2B%2B-%23%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&labelColor=black)
-![Static Badge](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=%23A8B9CC&labelColor=black)
-![Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=%23FCC624&labelColor=black)
-![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=black)
+### 프레임워크
+![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=black)
+
+### DB
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
+
+### Libraries
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23150458?style=for-the-badge&logo=numpy&logoColor=white&labelColor=black)
+![SciPy](https://img.shields.io/badge/scipy-%230C55A5?style=for-the-badge&logo=scipy&logoColor=white&labelColor=black)
+![Crypto](https://img.shields.io/badge/crypto-%23FFD700?style=for-the-badge&logo=security&logoColor=white&labelColor=black)
+
+
+
 
 ### 프로젝트
 - 계획중인 프로젝트: 리그오브레전드 5VS 내전 자동 매칭 시스템(코드 수정 중)
