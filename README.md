@@ -29,7 +29,8 @@
 
 
 ### 프로젝트
-- 계획중인 프로젝트: 리그오브레전드 5VS 내전 자동 매칭 시스템(코드 수정 중)
+- 계획중인 프로젝트: JongScanAI: AI를 활용한 웹페이지 취약점 스캐너 프로젝트입니다.
+  
   
 ### BOJ PYTHON RANGKING
 ![Boj Statistics](http://mazassumnida.wtf/api/v2/generate_badge?boj=ialleejy)
