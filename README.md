@@ -34,7 +34,7 @@
   
 ### BOJ PYTHON RANGKING
 ![Boj Statistics](http://mazassumnida.wtf/api/v2/generate_badge?boj=ialleejy)
-
+[![ialleejy profile](http://mazandi.herokuapp.com/api?handle=ialleejy)](https://solved.ac/ialleejy)
 
 ### GitHub 통계
 
