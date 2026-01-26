@@ -31,7 +31,7 @@ Security · Web · DevOps/DevSecOps · CTF 운영/출제
 - Site: https://semanticgap.mjsec.kr/
 - Repo: https://github.com/WHS-webao/semantic_gap
 - Docs: https://github.com/WHS-webao/WHS-webao.github.io
-- 내가 한 일(실무 관점)
+- 내가 한 역할
   - 최신 웹 취약점 정보가 산발적으로 흩어져 있어, 프로젝트 스코프를 **Semantic Gap(의미론적 차이)** 유형으로 한정하고 정리 방향을 잡음
   - 공격 “기법” 나열이 아닌 **Root Cause 중심 Taxonomy(분류 체계)**를 설계하여, 악용 흐름/방어 포인트를 함께 볼 수 있게 구조화
   - 취약점 사례를 일정 포맷으로 **정제·표준화**하여, 이후 LLM/RAG 기반 분석·탐지 자동화에 투입 가능한 데이터 형태로 정리
@@ -42,7 +42,7 @@ Security · Web · DevOps/DevSecOps · CTF 운영/출제
 - Repo: https://github.com/MJSEC-MJU/Reagan
 - reCAPTCHA AI: https://github.com/MJSEC-MJU/breakrecapcha_v2
 - Docker Hub: https://hub.docker.com/r/ialleejy/reagan-backend
-- 내가 한 일(실무 관점)
+- 내가 한 역할
   - 확장 프로그램과 백엔드를 연계해 URL 분석/수집 흐름을 구성하고, 백엔드를 Docker 기반으로 패키징
   - 모델/자동화 요소(reCAPTCHA 처리 등)를 파이프라인 형태로 분리해 재현 가능하게 정리
 
@@ -67,7 +67,7 @@ Security · Web · DevOps/DevSecOps · CTF 운영/출제
 ### 규모(지표)
 - 참가자: **약 100명**
 - 팀 수: **약 50팀**
-- 문제 수: **총 20문제**
+- 문제 수: **총 24문제**
 
 ### 맡은 경험
 - **플랫폼 개발/운영**: 대회 운영에 필요한 Front/Back 및 운영 도구(Discord Bot)를 구성하고 유지보수
