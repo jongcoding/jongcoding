@@ -109,7 +109,7 @@ Security · Web · DevOps/DevSecOps · CTF 운영/출제
 
 ### MJSEC BOJ CONTEST — solved.ac 기반 백준 대회 플랫폼
 - Repo: https://github.com/MJSEC-MJU/MJSEC_BOJ
-- 내가 한 일(실무 관점)
+- 내가 한 역할
   - solved.ac API를 활용해 대회 운영에 필요한 리더보드/집계 흐름을 구성
   - 배포 환경(Nginx/Gunicorn/Docker 등)에 맞춰 운영 가능한 형태로 정리
 
