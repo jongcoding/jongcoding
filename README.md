@@ -182,13 +182,6 @@ Security · Web · DevOps/DevSecOps · CTF 운영/출제
 
 ---
 
-## 연락처
-- email(Primary): ialleejy@gmail.com
-- email: [![Email](https://img.shields.io/badge/-ialleejy%40naver.com-00C300?style=flat&logo=naver&logoColor=white)](mailto:ialleejy@naver.com)
-- blog: https://ialleejy.tistory.com/
-- instagram:
-  - [@kjo._.okj](https://www.instagram.com/kjo._.okj/)
-  - [@jongactivity](https://www.instagram.com/jongactivity/)
 
 ---
 감사합니다.
