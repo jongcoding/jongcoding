@@ -16,7 +16,7 @@ Security · Web · DevOps/DevSecOps · CTF 운영/출제
 
 ---
 
-## 핵심 역량 (요약)
+## 역량 기술
 
 - **DevOps**: Docker · Docker Compose · Kubernetes · CI/CD(GitHub Actions) · Nginx Reverse Proxy · 운영 자동화  
 - **Cloud**: **GCP**(Compute 중심 배포/운영, 네트워크/방화벽 설정 경험)  
@@ -25,7 +25,7 @@ Security · Web · DevOps/DevSecOps · CTF 운영/출제
 
 ---
 
-## 대표 프로젝트 (실무형)
+## 대표 프로젝트
 
 ### WEAVE (WHS 3rd) — Semantic Gap 기반 웹 취약점 표준 분류/지식 플랫폼
 - Site: https://semanticgap.mjsec.kr/
