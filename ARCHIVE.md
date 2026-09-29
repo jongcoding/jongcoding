@@ -17,6 +17,27 @@ Docker·Compose·Nginx 기반 연구 환경 구성, 재현 조건과 서비스 �
 
 ## 프로젝트
 
+### MSGCTF Cloud Platform
+
+여러 클라우드의 자원을 묶어 팀별로 격리된 CTF 실행 환경을 제공하는 플랫폼을 개발 중
+아키텍처 설계, 서비스 간 API 계약 검토, PR 리뷰와 연동 검증 담당
+
+[프로젝트 저장소](https://github.com/MSG-CTF)
+
+### GnawLab
+
+실제 AWS 침해 사례를 Terraform으로 재현하는 오픈소스 보안 실습 프로젝트
+AWS Bedrock Agent 시나리오에 기여하고 DEF CON 34 Demo Labs에서 공동 발표
+
+[저장소](https://github.com/Beaver-Dam-Community/GnawLab) · [발표 정보](https://info.defcon.org/defcon34/content/66504)
+
+### WEAVE
+
+웹 구성 요소가 같은 입력을 다르게 해석할 때 발생하는 취약점 연구
+원인별 분류 체계 설계와 사례 정리 담당
+
+[연구 저장소](https://github.com/WHS-webao/semantic_gap) · [사이트](https://semanticgap.mjsec.kr/) · [웹 저장소](https://github.com/WHS-webao/WHS-webao.github.io)
+
 ### DBREACH
 
 압축 사이드채널 연구의 재현·평가 환경 구성
