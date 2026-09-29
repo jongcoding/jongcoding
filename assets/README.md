@@ -1,21 +1,8 @@
-# Profile artwork
+# Profile logos
 
-The profile uses local SVG illustrations and original project artwork
-No external statistics service, visitor counter, badge generator or scheduled workflow is required
-
-## Original illustrations
-
-The header and DEF CON record panels use an original flat navy and blue layout
-Their mobile variants keep the lettering readable instead of shrinking the desktop composition
-Light and dark variants follow GitHub's [supported picture element](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#the-picture-element)
-The record panels summarize the owner's CTF finals participation and Demo Labs co-presentation and are not official DEF CON logos or award certificates
-
-Text is drawn as vector outlines from [Manrope](https://github.com/googlefonts/manrope), retaining the bundled font and its [SIL OFL notice](fonts/Manrope-LICENSE.txt)
-This keeps the graphics consistent without requesting a remote font
-Equivalent text remains in image alternatives and the native Markdown archive
-
-To rebuild, install fonttools and brotli in a development environment and run `python tools/build_profile_art.py`
-The Python script is a local authoring tool and is not executed when someone visits the profile
+The profile uses native GitHub typography and original project artwork
+Names and descriptions remain selectable text, with small logos beside the relevant role or project
+No external statistics service, badge generator, custom font or scheduled workflow is required
 
 ## Brand sources
 
@@ -35,3 +22,5 @@ The ENKI frame adds a white display background around the unchanged paths
 These white backgrounds preserve dark source lettering when GitHub uses a dark theme
 The original logo colors, aspect ratios and source files are retained
 Names and trademarks belong to their respective owners
+
+Run `python tools/build_logo_frames.py` to rebuild the three display frames using only the Python standard library
