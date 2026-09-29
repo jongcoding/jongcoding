@@ -14,14 +14,14 @@ Security Researcher at [<img src="assets/enki-mark.svg" width="68" align="middle
 
 ## 프로젝트
 
-<a href="https://github.com/MSG-CTF"><img src="assets/msgctf-mark.svg" align="right" width="56" height="56" alt="MSGCTF 2026 로고"></a>
+<a href="https://github.com/MSG-CTF"><img src="assets/msgctf-mark.svg" align="right" width="48" height="48" alt="MSGCTF 2026 로고"></a>
 
 ### [MSGCTF Cloud Platform](https://github.com/MSG-CTF)
 
 여러 클라우드의 자원을 묶어 팀별로 격리된 CTF 실행 환경을 제공하는 플랫폼을 개발 중입니다<br>
 아키텍처 설계, 서비스 간 API 계약 검토, PR 리뷰와 연동 검증을 맡고 있습니다
 
-<a href="https://github.com/Beaver-Dam-Community/GnawLab"><img src="assets/brands/gnawlab.png" align="right" width="144" alt="GnawLab 로고"></a>
+<a href="https://github.com/Beaver-Dam-Community/GnawLab"><img src="assets/brands/gnawlab.png" align="right" width="120" alt="GnawLab 로고"></a>
 
 ### [GnawLab](https://github.com/Beaver-Dam-Community/GnawLab)
 
